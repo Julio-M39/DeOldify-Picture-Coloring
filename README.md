@@ -9,3 +9,7 @@ O DeOldify é um modelo de aprendizado profundo desenvolvido para colorir e rest
 O DeOldify é uma ferramenta útil para diversas aplicações, incluindo a restauração de fotografias históricas, a criação de versões coloridas de filmes antigos e documentários e até mesmo para melhorar a qualidade de imagens em baixa resolução ou qualidade. Ele é uma forma eficaz de reviver a história visual e torná-la mais acessível e realista para o público em geral.
 
 ### Resultados
+
+<div>
+<img src="https://user-images.githubusercontent.com/54995990/229188384-2076c3ef-3a5a-4f2c-99fb-c49bc7ac8b7d.png" width="1080px" />
+</div>
